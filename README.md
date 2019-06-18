@@ -58,7 +58,7 @@ npm install
 下記のコマンドでWebpack(ウェブパック)開発サーバーを起動します。
 
 ```bash
-npm typescript
+npm start
 ```
 
 開発サーバーが起動したら、ブラウザを開いて`http://localhost:3000/`に移動したら`Hello World!`が表示されることが確認できます。
@@ -92,7 +92,7 @@ npm install
 execute the command below to typescript Webpack dev-server.
 
 ```bash
-npm typescript
+npm start
 ```
 
 after typescripting the test server, open the browser and go to `http://localhost:3000/`. you can see `Hello World!` on the screen.
