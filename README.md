@@ -95,7 +95,7 @@ execute the command below to start Webpack dev-server.
 npm start
 ```
 
-after typescripting the test server, open the browser and go to `http://localhost:3000/`. you can see `Hello World!` on the screen.
+after starting the test server, open the browser and go to `http://localhost:3000/`. you can see `Hello World!` on the screen.
 
 stop the dev server, and execute the command below to buidl React project.
 
