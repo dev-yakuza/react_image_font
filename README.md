@@ -89,7 +89,7 @@ execute the command below to install libraries required the project.
 npm install
 ```
 
-execute the command below to typescript Webpack dev-server.
+execute the command below to start Webpack dev-server.
 
 ```bash
 npm start
